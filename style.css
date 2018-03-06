@@ -1,0 +1,115 @@
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #add8e6;
+    border-radius: .3rem;
+    margin: 0;
+}
+.jumbotron h1{
+	font-family: 'bradley hand';
+	text-align: center;
+	color: #76323f;
+}
+.navbar-expand-lg .navbar-collapse{
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 1110px;
+    box-sizing: border-box;
+}
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-toggler {
+    display: none;
+}
+}
+.navbar .navbar-expand .navbar-light{
+    box-sizing: border-box;
+}
+.nav-item{
+	padding-left: 50px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}    
+.navbar{
+	padding: 0;
+
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show.nav-link {
+    color: #000;
+    pad
+}
+.bg-light{
+    background-color: #fff!important;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid #000;
+    margin: 2px;
+    padding: 0;
+    max-width: 100%;
+    align-self: center;
+}
+img{
+    padding: 20px;
+}
+
+.form-inline{
+   padding: 15px;
+   padding-left: 50px;
+}
+.form-group{
+    padding-left: 10px;
+}
+.btn-primary {
+    color: #000;
+    background-color: #fff;
+    border:2px solid #000;
+}
+.form-control{
+    border: 2px solid #000;
+}
+.typo{ 
+    padding: 30px;
+    text-align: center;
+ }
+ .typo h1{
+    padding: 15px;
+ }
+ .badge-light {
+    color: #212529;
+    background-color: #fff;
+}
+.footer{
+    margin-top: 20px;
+}
+.verticalLine{
+    border-right: 2px solid #000;
+    max-height: 100%;
+}
+.list-group-item-action {
+    color: #565656;
+}
+.list-group-item-action:hover {
+    background: #d6ebf2;
+    color: #565656;
+}
+
+button.last{
+    margin-top: 10px;
+    border: 2px solid #000;
+}
+ .typograph{
+    box-sizing: border-box;
+ }   
+button.last:hover, button.middle:hover{
+    background-color: black;
+    border:2px solid #000;
+}
+h4{
+    padding-left: 10px;
+}
+
